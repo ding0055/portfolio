@@ -65,9 +65,11 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Wei.</span> I'm a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">6 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">6 years</span> of experience, specializing in{" "}
+        <span className="font-bold">React (Next.js).</span> Currently, I'm expanding my expertise in{" "}
+        <span className="font-bold">Business Intelligence Systems Infrastructure,</span> combining development skills with tools like{" "}
+        <span className="font-bold">Power BI</span> and{" "}
+        <span className="font-bold">Python</span> to deliver data-driven solutions.
       </motion.h1>
 
       <motion.div
